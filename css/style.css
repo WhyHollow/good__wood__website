@@ -1,0 +1,23 @@
+
+body{
+	font-family: "Segoe UI", sans-serif;
+}
+.header__background{
+	background: url('../img/fon.jpg') no-repeat;
+	width: 100%;
+}
+.header__sponsor__text{
+	font-size: 18px;
+	color: #fff;
+}
+.header__sponsor__name{
+	text-align: center;
+	color: #417145;
+	font-size: 44px;
+}
+
+.header__logo_name{
+	font-size: 54px;
+	color: #ffffff;
+	text-align: center;
+}
